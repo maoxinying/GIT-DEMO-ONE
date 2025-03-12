@@ -1,4 +1,4 @@
-// pages/babyCenter/babyCenter.js
+// pages/Center/Center.js
 Page({
 
   /**
