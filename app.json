@@ -2,7 +2,8 @@
   "pages": [
     "pages/index/index",
     "pages/logs/logs",
-    "pages/baby/baby"
+    "pages/baby/baby",
+    "pages/babyEdit/babyEdit"
   ],
   "window": {
     "navigationBarTextStyle": "black",
